@@ -24,7 +24,7 @@ export default function CreateUser() {
 
           <VStack spacing="8">
             <SimpleGrid minChildWidth="240px" spacing="8" w="100%">
-              <Input name="name" label="Nome completo" />
+              <Input name="name" label="Nome completo" type="text" />
               <Input name="email" label="E-mail" type="email" />
             </SimpleGrid>
 
