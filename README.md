@@ -43,9 +43,6 @@ O projeto deve ser compilado com npm, então faça o download abaixo se você n�
 </p>
 
 
-
-***O aplicativo ainda está em desenvolvimento 🚧. Em breve este arquivo será atualizado com a implantação do aplicativo e novos recursos***
-
 ---
 ### Autor
 
